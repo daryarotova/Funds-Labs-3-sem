@@ -1,0 +1,7 @@
+Hello World 123! IT'S MY LAB 1.
+This is a test file, very cool. And very cold
+On the street. Brrr
+Special chars: !@#$%^&*()
+and numbers: 1234567890
+also letters: abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abc123!@# DEF456$%^ HHH 6669s 
