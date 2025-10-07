@@ -6,3 +6,9 @@
 вычислении необходимо использовать ранее вычисленные результаты.
 
 <img width="440" height="229" alt="{D2ECCCE9-77B5-4005-96B6-4196E5E0E995}" src="https://github.com/user-attachments/assets/5c20260e-3b9e-4932-a2af-1d0a461a4d08" />
+
+### Запуск
+
+make  
+./math.out  
+make clean  
