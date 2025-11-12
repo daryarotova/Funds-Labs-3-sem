@@ -11,6 +11,6 @@ typedef enum {
 unsigned int addBits(unsigned int a, unsigned int b);
 unsigned int subBits(unsigned int a, unsigned int b);
 
-StatusCode convertNumber(const unsigned int num, const int r, char *out, unsigned int out_size);
+StatusCode convertNumber(unsigned int num, const int r, char *out, unsigned int out_size);
 
 #endif
