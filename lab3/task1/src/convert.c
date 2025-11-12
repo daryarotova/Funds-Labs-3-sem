@@ -58,6 +58,11 @@ StatusCode convertNumber(unsigned int num, const int r, char *out, unsigned int 
         index = subBits(index, 1);
         out[k] = temp[index];
         k = addBits(k, 1);
+
+        if (index > 0) {
+            out[k] = ' ';
+            k = addBits(k, 1);
+        }
     }
 
     out[k] = '\0';
