@@ -1,0 +1,15 @@
+X = -10
+Y = +5
+Z = --------X
+print(Z)
+A = 2
+B = 3
+print(-A * -B)
+print(-(A + B))
+print(+-+-A)
+C = -A^-B
+print(C)
+print((-2)^3)
+print((-2)^4)
+D = -(-(-(-5)))
+print(D)
