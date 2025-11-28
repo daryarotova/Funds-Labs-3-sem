@@ -1,0 +1,20 @@
+1 Ivanov Ivan Ivanovich 15 5 1980 M 2500.50
+2 Petrova Maria Alexeyevna 22 8 1992 W 1800.00
+3 Sidorov Alexey 10 12 1975 M 3200.75
+4 Smirnova Anna Georgievna 3 3 1988 W 2100.25
+5 Popov Dmitry Dmitrievich 18 7 1995 M 1900.00
+6 Vasileva Elena Nikolaevna 25 11 1983 W 2750.80
+7 Morozov Sergey 30 1 1970 M 4000.00
+8 Fedorova Olga Fedorovna 14 6 1990 W 2300.40
+9 Lebedev Nikolay Maximovich 8 9 1985 M 2600.60
+10 Kozlova Ekaterina Alexeyevna 12 4 1998 W 1700.30
+11 Novikov Andrey 5 2 1982 M 2850.00
+12 Vinogradova Natalia 19 10 1993 W 1950.75
+13 Pavlov Roman 27 7 1978 M 3500.25
+14 Mikhailova Tatiana Mikhailovna 9 12 1987 W 2200.50
+15 Egorov Vladimir 21 3 1991 M 2400.00
+16 Nikolaev Ivan Egorovich 7 8 1984 M 3100.00
+17 Orlova Marina Maximovna 16 2 1996 W 1650.00
+18 Lebedeva Irina Evgenyevna 11 11 1972 W 3800.50
+19 Solovyova Alina Romanovna 29 5 1989 W 2450.75
+20 Frolov Pavel 4 7 1994 M 1950.25
